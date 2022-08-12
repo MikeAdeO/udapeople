@@ -1,0 +1,9 @@
+GITHUB
+https://github.com/MikeAdeO/udapeople
+
+s3
+http://udapeople-445f8e5.s3-website-us-east-1.amazonaws.com/
+
+cloudfront
+
+d155vinj2re353.cloudfront.net
